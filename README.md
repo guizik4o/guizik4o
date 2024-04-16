@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá! eu sou o Guilherme Oliveira
 
-<!--
-**guizik4o/guizik4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou cursando ADS
+- 🌱 Estudando Full Stack
+- 😄 Pronouns: ele/dele
+<div>
+<a href="https://beacons.ai/guizik4o">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guizik4o&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizik4o&layout=compact&langs_count=16&theme=synthwave" /> 
+</div> 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="28" src="[https://www.vectorlogo.zone/logos/java/java-vertical.svg](https://cdn.worldvectorlogo.com/logos/java.svg">
+</div>
