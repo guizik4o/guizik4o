@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele
 <div>
 <a href="https://beacons.ai/guizik4o">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guizik4o&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guizik4o&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizik4o&layout=compact&langs_count=16&theme=synthwave" /> 
 </div> 
 <div style="display: inline_block"><br>
