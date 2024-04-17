@@ -3,7 +3,7 @@
 
 - 🔭 Estou cursando ADS
 - 🌱 Estudando Full Stack
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 <div>
 <a href="https://beacons.ai/guizik4o">
  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=guizik4o&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
